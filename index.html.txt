@@ -1,5 +1,10 @@
 <html>
-<head><title> ddd</title></head> 
+<head><title> 스터디입니다</title>
+</head>
 
+<body>
+
+스터디
+</body>
 
 </html>
